@@ -1,6 +1,22 @@
-# Snake3D
-Un fan game del mitico snake implementado en Unity.
+# Snake 3D
 
-<div align="center">
-  <img src="Screenshots/1.png" alt="Mi imagen" width="100%" height="55%">
-</div>
+<p align="center">
+    <img width="400px" src="Game8Snake.gif"> 
+</p>
+
+
+Recreación del mítico Snake en 3D
+
+### Gameplay
+
+- A_W_S_D : Movement
+
+
+### Prerequisites
+
+-  Unity ver. 2022.3.24f1 o mayor.
+
+
+## Authors
+
+* **Dairon Luis Naranjo** - [Github](https://github.com/daironln/)
